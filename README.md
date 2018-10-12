@@ -1,8 +1,5 @@
 Netget:
-  Data collector that works through browser extension
-  for profit 
-  mysql backend
-  will make this closed source project once more developers on board
+ Data collector that works through browser extension.  for profit.  mysql backend.  will make this closed source project once more developers on board
 
 
 
