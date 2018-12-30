@@ -22,7 +22,4 @@ o	(Important) develop authentication system
 •	Database
 o	Develop structure /complex
 o	Conceive relationship for data 
-o	Manage user authentication system 
-o	Billing system for database
-
 
